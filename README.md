@@ -13,10 +13,10 @@ the production quantity is 0
 the production quantity is this difference
 
 ## for execution of the program use the values:
->>> Please enter an initial stock level: 500
->>> Please enter the number of months to plan: 5
->>> Please enter the planned sales quantity for month 1: 300
->>> Please enter the planned sales quantity  for month 2: 250
->>> Please enter the planned sales quantity  for month 3: 200
->>> Please enter the planned sales quantity  for month 4: 400
->>> Please enter the planned sales quantity  for month 5: 100
+Please enter an initial stock level: 500
+Please enter the number of months to plan: 5
+Please enter the planned sales quantity for month 1: 300
+Please enter the planned sales quantity  for month 2: 250
+Please enter the planned sales quantity  for month 3: 200
+Please enter the planned sales quantity  for month 4: 400
+Please enter the planned sales quantity  for month 5: 100
